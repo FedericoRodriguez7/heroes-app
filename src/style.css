@@ -1,0 +1,14 @@
+
+
+.marvel{
+    min-height: 100vh;
+    min-width: 10vh;
+    background-image: radial-gradient(circle, rgba(254, 0, 0, 0.85) 18%, rgba(0, 17, 244, 0.82) 79%);
+}
+
+body{
+    background-image: radial-gradient(circle, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.5) 100%);}
+
+.dc{
+    background-image: radial-gradient(circle, #aeb521 18%, rgba(0, 2, 245, 0.94) 79%);
+}

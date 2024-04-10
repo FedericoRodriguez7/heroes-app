@@ -3,7 +3,7 @@ import { HeroList } from '../hero/HeroList';
 
 export const DcScreen = () => {
     return (
-        <div>
+        <div className='dc'>
             <h1>DCScreen</h1>
             <hr />
 
